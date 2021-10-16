@@ -25,9 +25,9 @@
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 45179,
-    "open_issues_count": 251,
-    "forks_count": 6306
+    "stargazers_count": 45275,
+    "open_issues_count": 255,
+    "forks_count": 6326
   },
   {
     "full_name": "lapstjup/resync",
@@ -43,39 +43,39 @@
   },
   {
     "full_name": "moleculerjs/moleculer",
-    "stargazers_count": 4693,
-    "open_issues_count": 82,
-    "forks_count": 452
+    "stargazers_count": 4697,
+    "open_issues_count": 83,
+    "forks_count": 453
   },
   {
     "full_name": "mongo-express/mongo-express",
-    "stargazers_count": 4321,
+    "stargazers_count": 4324,
     "open_issues_count": 160,
-    "forks_count": 790
+    "forks_count": 788
   },
   {
     "full_name": "burkesquires/tech-books-library",
-    "stargazers_count": 697,
+    "stargazers_count": 698,
     "open_issues_count": 0,
-    "forks_count": 355
+    "forks_count": 359
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 1517,
+    "stargazers_count": 1522,
     "open_issues_count": 2,
-    "forks_count": 549
+    "forks_count": 552
   },
   {
     "full_name": "karan/Projects",
-    "stargazers_count": 36745,
+    "stargazers_count": 36765,
     "open_issues_count": 73,
-    "forks_count": 10102
+    "forks_count": 10100
   },
   {
     "full_name": "bmorelli25/Become-A-Full-Stack-Web-Developer",
-    "stargazers_count": 14406,
-    "open_issues_count": 31,
-    "forks_count": 2450
+    "stargazers_count": 14419,
+    "open_issues_count": 32,
+    "forks_count": 2455
   },
   {
     "full_name": "ousecTic/pern-jwt-tutorial",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "feathericons/react-feather",
-    "stargazers_count": 1547,
-    "open_issues_count": 30,
+    "stargazers_count": 1551,
+    "open_issues_count": 31,
     "forks_count": 112
   },
   {
     "full_name": "zaydek/heroicons.dev",
-    "stargazers_count": 957,
+    "stargazers_count": 959,
     "open_issues_count": 16,
     "forks_count": 18
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 28208,
+    "stargazers_count": 28228,
     "open_issues_count": 1,
-    "forks_count": 2369
+    "forks_count": 2372
   },
   {
     "full_name": "Semantic-Org/Semantic-UI",
-    "stargazers_count": 49615,
-    "open_issues_count": 1053,
-    "forks_count": 5146
+    "stargazers_count": 49622,
+    "open_issues_count": 1055,
+    "forks_count": 5145
   },
   {
     "full_name": "coding-blocks-archives/Web-Dev-Roadmap-OneNote",
@@ -115,26 +115,26 @@
   },
   {
     "full_name": "eriklindernoren/ML-From-Scratch",
-    "stargazers_count": 20274,
+    "stargazers_count": 20285,
     "open_issues_count": 45,
-    "forks_count": 3961
+    "forks_count": 3965
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 57001,
+    "stargazers_count": 57555,
     "open_issues_count": 25,
-    "forks_count": 8805
+    "forks_count": 8849
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 15098,
-    "open_issues_count": 50,
-    "forks_count": 2839
+    "stargazers_count": 15113,
+    "open_issues_count": 51,
+    "forks_count": 2842
   },
   {
     "full_name": "TheAlgorithms/C-Plus-Plus",
-    "stargazers_count": 16112,
-    "open_issues_count": 156,
-    "forks_count": 4315
+    "stargazers_count": 16141,
+    "open_issues_count": 154,
+    "forks_count": 4331
   }
 ]
